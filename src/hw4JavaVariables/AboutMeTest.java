@@ -1,4 +1,4 @@
-package hw04JavaVariables;
+package hw4JavaVariables;
 
 public class AboutMeTest {
 

@@ -1,4 +1,4 @@
-package hw04_02JavaVariablesInitialized;
+package hw4JavaVariablesInitialized;
 
 
 public class AboutMeTest {
